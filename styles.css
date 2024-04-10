@@ -29,7 +29,7 @@ button:hover{
       gap: 40px;
       justify-content: center;
       align-items: center;
-      margin-top: 50px;
+      margin: 40px;
 }
 #result{
       font-size: 50px;
@@ -52,4 +52,7 @@ button:hover{
       flex-direction: column;
       justify-content: center;
       align-items: center;
+}
+i{
+      font-size: 25px;
 }
